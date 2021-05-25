@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed, one again.
+          This is the coolest animation. React logo is truly amazing.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          All good, no need to learn react today. Node.js is cooler ;)
+          So, i'm wondering. Should I study Node.js or Go next?
         </a>
       </header>
     </div>
