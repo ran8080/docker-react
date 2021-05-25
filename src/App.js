@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          So, i'm wondering. Should I study Node.js or Go next?
+          All good, no need to learn react today. Node.js is cooler ;)
         </a>
       </header>
     </div>
